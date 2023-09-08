@@ -1,5 +1,3 @@
-//Author Dheerajabc@gmail.com
-
 #ifndef BINTREE_H_INCLUDED
 #define BINTREE_H_INCLUDED
 
